@@ -17,35 +17,7 @@ We primarily utilize the IMU, the GPS, and the video data captured through the f
 
 
 ## Commands to run the model
-python data_collect.py <file_name> ## Collect Data <br>
-python maneuvers.py <file_name> ## Feature Extraction <br>
-python script_vid.py <file_name> ## Preprocessing <br>
+python data_collect.py <file_name> ## Collect Data
+python maneuvers.py <file_name> ## Feature Extraction
+python script_vid.py <file_name> ## Preprocessing
 We train our model using som_iter.py ## Running the model
-
-## Dataset
-A sample in-house dataset is provided in the dataset folder
-# Reference
-To refer the <em>DriCon</em> framework or the dataset, please cite the following work.
-
-[Download the paper from here](https://dl.acm.org/doi/10.1145/3549548).
-
-<!-- BibTex Reference:
-```
-@article{10.1145/3549548,
-author = {Mandal, Ratna and Karmakar, Prasenjit and Chatterjee, Soumyajit and Spandan, Debaleen Das and Pradhan, Shouvit and Saha, Sujoy and Chakraborty, Sandip and Nandi, Subrata},
-title = {Exploiting Multi-Modal Contextual Sensing for City-Bus’s Stay Location Characterization: Towards Sub-60 Seconds Accurate Arrival Time Prediction},
-year = {2022},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-issn = {2691-1914},
-url = {https://doi.org/10.1145/3549548},
-doi = {10.1145/3549548},
-note = {Just Accepted},
-journal = {ACM Trans. Internet Things},
-month = {jul},
-keywords = {multi-modal sensing, smartphone computing, intelligent transportation, stay-location detection, machine learning}
-}
-``` -->
-For questions and general feedback, contact Debasree Das (debasree1994@gmail.com).
-
-
