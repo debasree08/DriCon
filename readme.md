@@ -16,25 +16,19 @@ We primarily utilize the IMU, the GPS, and the video data captured through the f
 | Video         | 30                | 60                    |
 
 
-## Commands to run the model
-python data_collect.py <file_name> ## Collect Data
-python maneuvers.py <file_name> ## Feature Extraction
-python script_vid.py <file_name> ## Preprocessing
-We train our model using som_iter.py ## Running the model
-
 
 ## Commands to run the model
 - python data_collect.py <file_name> // Collect Data
 - python maneuvers.py <file_name> // Feature Extraction 
 - python script_vid.py <file_name> // Preprocessing
-We train our model using som_iter.py // Running the model
+- We train our model using som_iter.py // Running the model
 
 ## Dataset
 A sample in-house dataset is provided in the dataset folder
 # Reference
 To refer the <em>DriCon</em> framework or the dataset, please cite the following work.
 
-[Download the paper from here](https://dl.acm.org/doi/10.1145/3549548).
+<!-- [Download the paper from here](https://dl.acm.org/doi/10.1145/3549548). -->
 
 <!-- BibTex Reference:
 ```
