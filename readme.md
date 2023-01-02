@@ -30,22 +30,18 @@ To refer the <em>DriCon</em> framework or the dataset, please cite the following
 
 <!-- [Download the paper from here](https://dl.acm.org/doi/10.1145/3549548). -->
 
-<!-- BibTex Reference:
+BibTex Reference:
 ```
-@article{10.1145/3549548,
-author = {Mandal, Ratna and Karmakar, Prasenjit and Chatterjee, Soumyajit and Spandan, Debaleen Das and Pradhan, Shouvit and Saha, Sujoy and Chakraborty, Sandip and Nandi, Subrata},
-title = {Exploiting Multi-Modal Contextual Sensing for City-Bus’s Stay Location Characterization: Towards Sub-60 Seconds Accurate Arrival Time Prediction},
-year = {2022},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-issn = {2691-1914},
-url = {https://doi.org/10.1145/3549548},
-doi = {10.1145/3549548},
-note = {Just Accepted},
-journal = {ACM Trans. Internet Things},
-month = {jul},
-keywords = {multi-modal sensing, smartphone computing, intelligent transportation, stay-location detection, machine learning}
-}
-``` -->
+@INPROCEEDINGS{dasdricon2023,
+  author={Das, Debasree and Chakraborty, Sandip and Mitra, Bivas},
+  booktitle={2023 IEEE International Conference on Pervasive Computing and Communications (PerCom)}, 
+  title={DriCon: On-device Just-in-Time Context Characterization for Unexpected Driving Events}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={},
+  doi={}}
+
+```
 For questions and general feedback, contact Debasree Das (debasree1994@gmail.com).
 
