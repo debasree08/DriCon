@@ -7,7 +7,17 @@ Use the following commands in sequence to run the system.
 </p>
 
 ## In-house Dataset
-We primarily utilize the IMU, the GPS, and the video data captured through the front camera (facing towards the front windscreen) as different modalities. A sample dataset is provided with the following modalities which is collected over three different cities in India.
+We primarily utilize the IMU, the GPS, and the video data captured through the front camera (facing towards the front windscreen) as different modalities. A sample dataset is provided with the following modalities which is collected over three different cities in India. The cities are Kolkata, Kharagpur and Mandarmani. For each city, we have provided 20 minutes of data, cumulating upto 1 hour. Due to large file size, we have provided the dataset in the following link.
+
+https://iitkgpacin-my.sharepoint.com/:f:/g/personal/debasree_das_iitkgp_ac_in/Eu0EdsMSGCZDjGk6wxLlkpYB1cFq-whVswJvusmlCR-4mw?e=cSbrv1
+
+The GPS data is in the following format:
+- LOCATION Latitude :;LOCATION Longitude :; YYYY-MO-DD HH-MI-SS_SSS;
+
+The IMU data is in the following format:
+- timestamp | G:y-axis,z-axis,x-axis
+
+
 
 | Modalities    | Sampling Rate/fps | Duration (in seconds) |
 |---------------|-------------------|-----------------------|
