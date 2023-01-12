@@ -25,6 +25,8 @@ The IMU data is in the following format:
 | GPS           | 1                 | 60                    |
 | Video         | 30                | 60                    |
 
+## Data Annotation Platform
+- We have annotated our dataset using this platform developed by us: https://drivingskillsvalidator.web.app/
 
 
 ## Commands to run the model
