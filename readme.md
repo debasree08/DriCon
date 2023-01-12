@@ -33,7 +33,7 @@ The IMU data is in the following format:
 - python data_collect.py <file_name> // Collect Data
 - python maneuvers.py <file_name> // Feature Extraction 
 - python script_vid.py <file_name> // Preprocessing
-- We train our model using som_iter.py // Running the model
+- python som_model.py // Running the model
 
 ## Dataset
 A sample in-house dataset is provided in the dataset folder
